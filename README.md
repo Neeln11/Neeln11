@@ -109,10 +109,6 @@ Hybrid chatbot combining TF-IDF + Logistic Regression with a Groq Llama-3.1-8B f
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeln11&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Neeln11&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 

@@ -97,37 +97,14 @@ Hybrid chatbot combining TF-IDF + Logistic Regression with a Groq Llama-3.1-8B f
 
 ---
 
-<div align="center">
+### 🐍 Contribution Snake
 
-### 🧠 Neural Activity Map
-
-*Each square is a training step. Each commit, a gradient descent toward better models.*
-
-<br/>
-
-![Epoch](https://img.shields.io/badge/Training-In%20Progress-00F7FF?style=flat-square&logo=tensorflow&logoColor=white)
-![Loss](https://img.shields.io/badge/Loss-Decreasing%20📉-8A2BE2?style=flat-square&logo=pytorch&logoColor=white)
-![Optimizer](https://img.shields.io/badge/Optimizer-Passion%20%2B%20Coffee-FF6F00?style=flat-square&logo=python&logoColor=white)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Neeln11/Neeln11/output/github-contribution-grid-snake-dark.svg" alt="neural contribution snake"/>
-
-<br/>
-
-```python
-model.fit(
-    X = daily_commits,
-    y = "becoming a better ML engineer",
-    optimizer = "curiosity",
-    loss      = "imposter_syndrome",
-    epochs    = float('inf')
-)
-```
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neeln11/Neeln11/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
+
 
 
 <p align="center">

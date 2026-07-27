@@ -105,6 +105,3 @@ Hybrid chatbot combining TF-IDF + Logistic Regression with a Groq Llama-3.1-8B f
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neeln11&color=blueviolet&style=flat-square" alt="profile views"/>
-</p>
